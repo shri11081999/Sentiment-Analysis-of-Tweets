@@ -83,8 +83,8 @@ To set up this project locally, follow these steps:
 3. Explore the results through visualizations and compare model accuracy.
 
 👥 Contributors
-Shriniket Dixit 
-Raj Gupta 
+1. Shriniket Dixit 
+2Raj Gupta 
 
 📧 Contact
 For any questions or issues, please reach out to 📬 dixitshriniket976@gmail.com.
