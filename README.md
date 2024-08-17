@@ -54,9 +54,9 @@ The **AdaBoost Classifier** showed the best performance with an accuracy of **79
 
 | Model                      | Accuracy |
 | --------------------------- | -------- |
-| Naive Bayes                 | 68%      |
-| Logistic Regression         | 77%      |
-| Support Vector Machines     | 78%      |
+| Naive Bayes Classifier      | 68%      |
+| Logistic Regression         | 80%      |
+| Support Vector Machine      | 79.3%    |
 | Random Forest Classifier    | 76%      |
 | K-Nearest Neighbors         | 59%      |
 | Decision Tree Classifier    | 75%      |
