@@ -55,14 +55,14 @@ The **AdaBoost Classifier** showed the best performance with an accuracy of **79
 | Model                      | Accuracy |
 | --------------------------- | -------- |
 | Naive Bayes Classifier      | 68%      |
-| Logistic Regression         | 80%      |
+| **Logistic Regression**     | **80%**  |
 | Support Vector Machine      | 79.3%    |
-| Random Forest Classifier    | 76%      |
-| K-Nearest Neighbors         | 59%      |
-| Decision Tree Classifier    | 75%      |
-| **AdaBoost Classifier**     | **79%**  |
+| Random Forest Classifier    | 77%      |
+| K-Nearest Neighbors         | 72%      |
+| Decision Tree Classifier    | 70%      |
+| AdaBoost Classifier**       | 74%      |
 
-The AdaBoost Classifier achieved the highest accuracy, while K-Nearest Neighbors had the lowest accuracy.
+The Logistic Regression achieved the highest accuracy, while Naive Bayes Classifier had the lowest accuracy.
 
 ## 🛠️ Installation
 
@@ -73,7 +73,7 @@ To set up this project locally, follow these steps:
    git clone https://github.com/your-username/twitter-airline-sentiment.git
    cd twitter-airline-sentiment
 
-🖥️ Usage
+##  🖥️ Usage
 1. Run the Jupyter notebook to explore the workflow:
    ```bash
       jupyter notebook Twitter_sentiment_analysis.ipynb
@@ -82,13 +82,21 @@ To set up this project locally, follow these steps:
 
 3. Explore the results through visualizations and compare model accuracy.
 
-👥 Contributors
+## 📸 Screenshots
+
+Here is a comparison table showing the accuracy of the different machine learning models used in this project:
+
+![sn](https://github.com/user-attachments/assets/2a8dafd2-b3a5-4a03-be82-43ceef1807eb)
+
+## 👥 Contributors
 
 - Shriniket Dixit 
 - Raj Gupta 
 
-📧 Contact
+## 📧 Contact
+
 For any questions or issues, please reach out to 📬 dixitshriniket976@gmail.com.
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
