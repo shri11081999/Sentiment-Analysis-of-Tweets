@@ -75,10 +75,9 @@ To set up this project locally, follow these steps:
 
 🖥️ Usage
 1. Run the Jupyter notebook to explore the workflow:
-
-bash
-jupyter notebook Twitter_sentiment_analysis.ipynb
-
+   ```bash
+      jupyter notebook Twitter_sentiment_analysis.ipynb
+   
 2. Modify the notebook or script as needed for your analysis.
 
 3. Explore the results through visualizations and compare model accuracy.
