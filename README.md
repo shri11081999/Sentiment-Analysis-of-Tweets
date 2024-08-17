@@ -5,7 +5,7 @@
 
 Welcome to the **Twitter Airline Sentiment Analysis** project! This project utilizes machine learning techniques to analyze and predict sentiments from tweets related to major U.S. airlines. The goal is to classify tweets as positive, neutral, or negative using various machine learning models and natural language processing (NLP) techniques.
 
-![Sentiment Analysis](https://via.placeholder.com/800x300.png?text=Twitter+Airline+Sentiment+Analysis)
+![cfd4760e-eb27-4356-8a98-6711b31daa2c](https://github.com/user-attachments/assets/df5b60fd-619f-4065-82e3-86e3e3f002cb)
 
 ## 📝 Table of Contents
 - [Introduction](#introduction)
@@ -83,8 +83,9 @@ To set up this project locally, follow these steps:
 3. Explore the results through visualizations and compare model accuracy.
 
 👥 Contributors
-1. Shriniket Dixit 
-2Raj Gupta 
+
+- Shriniket Dixit 
+- Raj Gupta 
 
 📧 Contact
 For any questions or issues, please reach out to 📬 dixitshriniket976@gmail.com.
